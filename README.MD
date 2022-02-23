@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clément BLAIZEL</h1>
-<h3 align="center">A frontend developer from France</h3>
+<h3 align="center">A frontend developer</h3>
 
 - 🔭 I’m currently working on [Planification APP](https://github.com/LacyAttorney599/Planification_App)
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
-- 💬 Ask me about **I am a junior front end developer in my 3rd year of higher education. I am currently working on an application project in flutter which is the Planning APP project. I am also learning React Native.**
+- 💬 Ask me about : **I am a junior front end developer in my 3rd year of higher education. I am currently working on an application project in flutter which is the Planning APP project. I am also learning React Native.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
