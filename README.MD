@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Solfege](https://github.com/LacyAttorney599/Solfege)
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently learning **Vue JS**
 
-- 💬 Ask me about : **I am a junior front end developer in my 3rd year of higher education. I am currently working on an application project in flutter which is the Planning APP project. I am also learning React Native.**
+- 💬 Ask me about : **I'm a junior front end developer. I'm working a lot with the Vue JS framework at the moment. I am looking for a job as a front end web developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
