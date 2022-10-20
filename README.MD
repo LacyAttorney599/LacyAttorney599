@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clément BLAIZEL</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on [Planification APP](https://github.com/LacyAttorney599/Planification_App)
+- 🔭 I’m currently working on [Solfege](https://github.com/LacyAttorney599/Solfege)
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
